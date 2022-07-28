@@ -1,7 +1,7 @@
 ## Olá, eu sou a Luíza Furtado Portela 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript, Kotlin, Python, Html e Css
+- 🌱 Estudando JavaScript, Kotlin, Python, SQL, Html e Css
 - 📫 Contate-me no email: luizafurtadoportela@gmail.com
 - 😄 Pronomes: ela/dela
 

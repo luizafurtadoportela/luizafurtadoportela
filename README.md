@@ -26,7 +26,6 @@
   <img align="center" alt="Luiza-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Luiza-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Luiza-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="right" alt="Luiza-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/88/05/f9/8805f95cd6a2d36b5c336c401968497e.jpg">
 </div>
 
 ##
